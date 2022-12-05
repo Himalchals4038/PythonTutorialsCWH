@@ -1,0 +1,5 @@
+Hello this is the 4th sample file of this folder
+I am almost done with file IO chapter and with be moving to OOPs next
+That will be the last chapter of this course and next
+I am going to move into Python Intermediate
+Its contents will soon be wiped out by a python program
